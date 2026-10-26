@@ -1,0 +1,21 @@
+{
+  "name": "derimakasii - Kasir & Keuangan F&B",
+  "short_name": "derimakasii",
+  "description": "Sistem Kasir dan Keuangan F&B PWA Offline",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3a5a20",
+  "icons": [
+    {
+      "src": "Minimalist White Checklist Logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Minimalist White Checklist Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
